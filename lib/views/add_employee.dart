@@ -12,8 +12,8 @@ class AddEmployeeScreen extends StatelessWidget {
 
   @override
   Widget build(BuildContext context) {
-    final themeColor = const Color(0xFF4E89AE); // Cool Blue
-    final backgroundColor = const Color(0xFFF4F7FA); // Soft Gray
+    final themeColor = const Color(0xFF4E89AE);
+    final backgroundColor = const Color(0xFFF4F7FA);
 
     return Scaffold(
       appBar: AppBar(

@@ -26,7 +26,7 @@ class EmployeeController extends GetxController {
         Fluttertoast.showToast(
           msg: "Failed to fetch employees $e",
           toastLength: Toast.LENGTH_SHORT,
-          backgroundColor: const Color(0xFFe53935), // red
+          backgroundColor: const Color(0xFFe53935),
           textColor: Colors.white,
           fontSize: 14.0,
         );

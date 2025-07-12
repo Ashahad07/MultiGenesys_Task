@@ -11,8 +11,8 @@ class EmployeeListScreen extends StatelessWidget {
 
   @override
   Widget build(BuildContext context) {
-    const Color primaryColor = Color(0xFF4E89AE); // Cool Blue
-    const Color backgroundColor = Color(0xFFF4F7FA); // Soft Gray
+    const Color primaryColor = Color(0xFF4E89AE);
+    const Color backgroundColor = Color(0xFFF4F7FA);
     const Color secondaryText = Color(0xFF666666);
 
     return WillPopScope(
